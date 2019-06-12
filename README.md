@@ -1,5 +1,5 @@
 # Amenesia #
-Become amnesia and forgot all your past.
+Become amnesia and forget all your past.
 
 - **Author**: SirusDoma
 - **Email**: com@cxo2.me
@@ -8,9 +8,7 @@ Become amnesia and forgot all your past.
 ## Summary ##
 
 Did facebook memories remind you how shameless you're in the past?
-Cringy posts and comments? shameless pose of your old pictures?
-
-Rest assured! Use Amnesia and *poof!* everything's gone.
+Cringy posts and comments? shameless pose of your old pictures? Rest assured! Use Amnesia and *poof!* everything's gone.
 
 Written under node.js and powered by [Puppeteer](https://github.com/GoogleChrome/puppeteer) for a single purpose: to forget all those good-for-nothing memories in the past.  
 
@@ -22,7 +20,8 @@ Since Facebook does not provide API / SDK to interact directly to your own posts
 2. Clone or download this repository
 3. Run `npm install` in cloned repository directory
 4. Rename `env.sample` into `.env` and fill `EMAIL`, `PROFILEID` (username) and `PASSWORD`
-5. Run `node app.js`
+5. Run `node app.js <start year> <end year>`
+    For example: `node app.js 2011 2015`
 
 What it'll do:
 1. Delete your post
@@ -36,6 +35,9 @@ What it **WON'T** do:
 2. Untag you from posts that belongs to your friends
 3. Unfriend people
 4. Collect any single bit information of your profile
+
+If you got some time, consider make a contribution by creating a PR.  
+I'm too lazy to make post filter an such, so your PR will be very appreciated lol
 
 ## License ##
 
