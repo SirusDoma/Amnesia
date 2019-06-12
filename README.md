@@ -1,5 +1,5 @@
 # Amenesia #
-Become amnesia and forgot all your past.
+Become amnesia and forget all your past.
 
 - **Author**: SirusDoma
 - **Email**: com@cxo2.me
