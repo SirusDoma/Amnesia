@@ -33,9 +33,10 @@ What it'll do:
 
 What it **WON'T** do:
 1. Delete posts / comments / photos that belongs to your friends
-2. Untag you from posts that belongs to your friends
-3. Unfriend people
-4. Collect any single bit information of your profile
+2. Delete your cringe message of your ex and friends
+3. Untag you from posts that belongs to your friends
+4. Unfriend people
+5. Collect any single bit information of your profile
 
 If you got some time, consider make a contribution by creating a PR.  
 I'm too lazy to make post filter an such, so your PR will be very appreciated lol
