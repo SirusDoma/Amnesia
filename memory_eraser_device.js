@@ -11,7 +11,7 @@ class MemoryEraserDevice {
     async activate(start, end) {
         try {
             console.log('Activating Memory Eraser Device..');
-            this.browser = await puppeteer.launch({ headless: false });
+            this.browser = await puppeteer.launch({ headless: true });
             this.page    = await this.browser.newPage();
 
             await this.page.goto('https://www.facebook.com', { timeout: 0 });
