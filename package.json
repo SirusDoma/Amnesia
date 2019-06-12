@@ -1,0 +1,21 @@
+{
+  "name": "amnesia",
+  "version": "1.0.0",
+  "description": "Erase your social media memories",
+  "main": "app.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SirusDoma/Amnesia.git"
+  },
+  "author": "SirusDoma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SirusDoma/Amnesia/issues"
+  },
+  "homepage": "https://github.com/SirusDoma/Amnesia#readme",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "puppeteer": "^1.17.0"
+  }
+}
