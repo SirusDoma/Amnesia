@@ -20,7 +20,8 @@ Since Facebook does not provide API / SDK to interact directly to your own posts
 2. Clone or download this repository
 3. Run `npm install` in cloned repository directory
 4. Rename `env.sample` into `.env` and fill `EMAIL`, `PROFILEID` (username) and `PASSWORD`
-5. Run `node app.js`
+5. Run `node app.js <start year> <end year>`
+    For example: `node app.js 2011 2015`
 
 What it'll do:
 1. Delete your post
