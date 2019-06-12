@@ -29,6 +29,7 @@ What it'll do:
 3. Delete your photos
 4. Delete your notes
 5. Unlike posts / photos you've liked before
+6. Might delete everything else
 
 What it **WON'T** do:
 1. Delete posts / comments / photos that belongs to your friends
@@ -41,4 +42,4 @@ I'm too lazy to make post filter an such, so your PR will be very appreciated lo
 
 ## License ##
 
-This is an open-sourced library licensed under the [MIT License](http://github.com/SirusDoma/Amnesia/blob/master/LICENSE)
+This is an open-sourced program licensed under the [MIT License](http://github.com/SirusDoma/Amnesia/blob/master/LICENSE)
