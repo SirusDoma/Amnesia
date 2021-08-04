@@ -1,4 +1,4 @@
-# Amenesia #
+# Amnesia #
 Become amnesia and forget all your past.
 
 - **Author**: SirusDoma
